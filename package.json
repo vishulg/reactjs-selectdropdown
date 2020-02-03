@@ -1,6 +1,6 @@
 {
   "name": "reactjs-selectdropdown",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ReactSelectDropdown is a JS library which is dropdwon with all the features of select element given by HTML.",
   "main": "ReactSelectDropdown.js",
   "scripts": {
