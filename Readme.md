@@ -44,7 +44,7 @@ const data =  [
   className: PropTypes.string,
   labelToShow: PropTypes.string,
   getData: PropTypes.func.isRequired,
-  items: PropTypes.array.isRequired,
+  data: PropTypes.array.isRequired,
   height: PropTypes.string,
   arrowColor: PropTypes.string,
 ```
@@ -67,7 +67,7 @@ const data =  [
 
   getData: This is function which will return the selected value.
 
-  items: This is data which is an array either of string or objects.
+  data: This is data which is an array either of string or objects.
 
   height: Max-height of the dropdown with scroll.
 

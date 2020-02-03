@@ -210,7 +210,7 @@ SelectDropdown.propTypes = {
   className: PropTypes.string,
   labelToShow: PropTypes.string,
   getData: PropTypes.func.isRequired,
-  items: PropTypes.array.isRequired,
+  data: PropTypes.array.isRequired,
   height: PropTypes.string,
   arrowColor: PropTypes.string,
 };
